@@ -1,7 +1,7 @@
 # simple-form :memo:
 
-:date: January 2023
-:paintbrush: Frontend
+:date: January 2023  
+:paintbrush: Frontend  
 :link: Netlify check it [here](https://zippy-profiterole-59da25.netlify.app/)
 
 ## Overview - Welcome :dog:
@@ -22,8 +22,8 @@ mobile phone,form and informations filled
 ---
 
 :ballot_box_with_check: Create layout  
-:ballot_box_with_check: Display user's informations
-:ballot_box_with_check: Use states
+:ballot_box_with_check: Display user's informations  
+:ballot_box_with_check: Use states  
 :ballot_box_with_check: Remove tasks  
 :ballot_box_with_check: Fix unvalid values (error messages)
 
