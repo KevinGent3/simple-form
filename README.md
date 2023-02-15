@@ -46,9 +46,9 @@ Be sure, you have installed all dependencies to run the project.
 
 1️. Clone this repository
 
-`git clone https://github.com/KevinGent3/react-todo-list.git`
+`git clone https://github.com/KevinGent3/simple-form.git`
 
-`cd react-todo-list`
+`cd simple-form`
 
 2️. Install packages
 
