@@ -2,7 +2,7 @@
 
 :date: January 2023  
 :paintbrush: Frontend  
-:link: Netlify check it [here](https://zippy-profiterole-59da25.netlify.app/)
+:link: Netlify check it [here](https://inspiring-phoenix-9766e3.netlify.app/)
 
 ## Overview - Welcome :dog:
 
