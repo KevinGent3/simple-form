@@ -1,4 +1,4 @@
-# TODO LIST :memo:
+# simple-form :memo:
 
 :date: January 2023
 :paintbrush: Frontend
@@ -57,4 +57,3 @@ or
 3️. When installation is complete:
 
 `yarn start`
-# simple-form
