@@ -29,14 +29,16 @@ mobile phone,form and informations filled
 
 ## Stacks :books:
 
+---
+
 [Javascript](https://www.w3schools.com/js/default.asp)  
 [ReactJS](https://fr.reactjs.org/docs/getting-started.html)  
 [HTML5](https://www.w3schools.com/html/default.asp)  
 [CSS3](https://www.w3schools.com/css/default.asp)
 
----
-
 ## Installation :hammer_and_wrench:
+
+---
 
 Be sure, you have installed all dependencies to run the project.
 
